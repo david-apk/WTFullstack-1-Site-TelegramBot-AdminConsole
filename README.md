@@ -6,6 +6,10 @@
 # <a name="team-members"></a>Team Members
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
 
+# Project Name
+> Abstract of the project or small introduction of what the project is about
+<hr>
+
 Моя первая проба реализовать Fullstack сервис. 
 За основу front взят html/css/js шаблон из открытых источников:
 https://www.free-css.com/free-css-templates/page254/minimalista
