@@ -55,8 +55,8 @@ To control, use the commands:<br>
 Stages of pair recording:<br>
    1. Enter the identification number of the pair from <br>
       which you want to continue the dialogue with the user.<br>
-If you want this pair to work as the beginning <br>
-of a new line of dialogue, then enter '0'.<br>
+      If you want this pair to work as the beginning <br>
+      of a new line of dialogue, then enter '0'.<br>
    2. Enter the message you expect from the user.<br>
    3. Enter the message that the bot will reply.<br>
    4. That's it! The couple is created. <br>
