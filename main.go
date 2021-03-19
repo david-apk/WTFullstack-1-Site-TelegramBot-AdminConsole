@@ -1147,7 +1147,7 @@ func main() {
 								YValues: ggY}},
 					}
 
-					f, _ := os.Create("uday.png")
+					f, _ := os.Create("img/uday.png")
 					defer f.Close()
 					graph.Render(chart.PNG, f)
 					msg = tgbotapi.NewMessage(update.Message.Chat.ID, "photo created")
@@ -1155,8 +1155,8 @@ func main() {
 
 					//
 					//
-					f, _ = os.Open("uday.png")
-					reader := tgbotapi.FileReader{Name: "uday.png", Reader: f, Size: -1}
+					f, _ = os.Open("img/uday.png")
+					reader := tgbotapi.FileReader{Name: "img/uday.png", Reader: f, Size: -1}
 
 					msgv := tgbotapi.NewPhotoUpload(update.Message.Chat.ID, reader)
 					msgv.Caption = "Using Home Page at " + now.Format("2006.01.02")
