@@ -1,10 +1,6 @@
 # WTFullstack-1-Site-TelegramBot-AdminConsole
 
-<pre>
-hello, this is
-   just an     example
-....
-</pre>
+
 
 Video Description:
 Click for watching on YouTube (ru lang)
@@ -19,7 +15,9 @@ A database based on json packages in the "data" folder.<br>
 Inside data/config.json, the starting parameters of the web service are set.<br>
 The service is managed through the Telegram Bot.<br><br>
 # Admin Menu
-<br>
+<pre>
+
+
 1. Show current data on the site.<br>
 There are two command options for this:<br>
    1. 'conf all' - request all<br>
@@ -85,3 +83,4 @@ If you want this pair to work as the beginning of a new line of dialogue, then e
 10. Exit administrator mode:<br>
    'close' is the exit command.<br>
 <br>
+</pre>
