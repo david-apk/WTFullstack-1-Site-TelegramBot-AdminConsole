@@ -34,7 +34,6 @@ There are two command options for this:<br>
       'conf 6' or 'workers'<br>
       'conf 7' or 'contacts'<br>
 <br>
-<br>
 2. Replace the data on the site.<br>
 To do this, use the code command:<br>
    'XXX =' - section element code.<br>
@@ -43,42 +42,38 @@ To do this, use the code command:<br>
       '307 = This is new data'<br>
       '102 = https: //i.site.com/T/1.jpg'<br>
 <br>
-<br>
 3. Reset all site changes.<br>
    'set default conf' - reset command<br>
-<br>
 <br>
 4. Notify about visiting the site.<br>
 To control, use the commands:<br>
    'shut up' - disable<br>
    'talk all' - enable<br>
 <br>
-<br>
 5. Write down a question / answer pair. Use the command:<br>
    'nscr' is the command to start<br>
 Stages of pair recording:<br>
-   1. Enter the identification number of the pair from which you want to continue the dialogue with the user.<br>
-If you want this pair to work as the beginning of a new line of dialogue, then enter '0'.<br>
+   1. Enter the identification number of the pair from <br>
+      which you want to continue the dialogue with the user.<br>
+If you want this pair to work as the beginning <br>
+of a new line of dialogue, then enter '0'.<br>
    2. Enter the message you expect from the user.<br>
    3. Enter the message that the bot will reply.<br>
-   4. That's it! The couple is created. The bot will create a unique number for her, to which you can later link the development of the dialogue.<br>
-<br>
+   4. That's it! The couple is created. <br>
+      The bot will create a unique number for her, <br>
+      to which you can later link the development of the dialogue.<br>
 <br>
 6. Delete the question / answer pair.<br>
     'dscrX' - replace X with a unique number.<br>
 <br>
-<br>
 7. View all question / answer pairs. Use the command:<br>
    'conf scr' is the command to view.<br>
-<br>
 <br>
 8. Set a new password. Use the command:<br>
    'npasX' - replace X with a new password.<br>
 <br>
-<br>
 9. Request statistics for the day. Use the command:<br>
    'uday' is the command to view the attendance.<br>
-<br>
 <br>
 10. Exit administrator mode:<br>
    'close' is the exit command.<br>
