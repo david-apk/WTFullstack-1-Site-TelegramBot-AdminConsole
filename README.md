@@ -6,9 +6,9 @@ Click for watching on YouTube (ru lang)
 
 Text Description:<br>
 My first try to implement the FullStack Web service.<br>
-FrontEnd is based on html / css / js template from open sources:<br>
+FrontEnd is based on html/css/js template from open sources:<br>
 https://www.free-css.com/free-css-templates/page254/minimalista<br>
-I restructured this into a landing page and replaced almost all of the content with a go-template.<br>
-A database based on json packages in the data folder.<br>
-Inside data / config.json, the starting parameters of the web service are set.<br>
+I restructured this into a landing page and replaced almost all of the content with a "go-template".<br>
+A database based on json packages in the "data" folder.<br>
+Inside data/config.json, the starting parameters of the web service are set.<br>
 The service is managed through the Telegram Bot.<br>
