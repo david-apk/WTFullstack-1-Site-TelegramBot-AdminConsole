@@ -1,6 +1,6 @@
 # WTFullstack-1-Site-TelegramBot-AdminConsole
 
-[![Watch the video](https://img.youtube.com/vi/lLJmS0dBM4&t/hqdefault.jpg)](https://www.youtube.com/watch?v=mlLJmS0dBM4&t=503s)
+[![Watch the video](https://img.youtube.com/vi/LJmS0dBM4&t/hqdefault.jpg)](https://www.youtube.com/watch?v=mlLJmS0dBM4&t=503s)
 
 # Table of Contents
 * [Team Members](#team-members)
