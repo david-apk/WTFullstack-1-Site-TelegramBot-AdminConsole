@@ -1,0 +1,4 @@
+ngrok http 3333
+
+
+go run main.go
