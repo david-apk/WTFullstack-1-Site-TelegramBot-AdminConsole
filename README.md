@@ -1,18 +1,10 @@
 # WTFullstack-1-Site-TelegramBot-AdminConsole
 
+# Video Description:
 [![Watch the video](https://img.youtube.com/vi/mlLJmS0dBM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=mlLJmS0dBM4&t=503s)
 
-# Table of Contents
-* [Team Members](#team-members)
-
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
-
-# Project Name
-> Abstract of the project or small introduction of what the project is about
-<hr>
-
-Моя первая проба реализовать Fullstack сервис. 
+# Text Description:
+Моя первая проба реализовать Fullstack сервис.<br>
 За основу front взят html/css/js шаблон из открытых источников:
 https://www.free-css.com/free-css-templates/page254/minimalista
 Я реструктурировал это в лендинг и заменил почти весь контент на go-template
