@@ -1,8 +1,8 @@
 {
-    "Token": "1292002537:AAFHhrTojN6oACiAwVYHY7HnFrkam65bEqU",
-    "TelegramBotLink": "https://t.me/IDONTUSERbot",
+    "Token": "1292002537:AA",
+    "TelegramBotLink": "https://t.me/I",
     "LocalHostPort": "127.0.0.1:3333",
-    "Password": "228666",
+    "Password": "2oooo",
     "PortWeb": "3333",
-    "updateTimeSec": "300"
+    "updateTimeSec": "300" //seconds bot checkout telegram server
    }
