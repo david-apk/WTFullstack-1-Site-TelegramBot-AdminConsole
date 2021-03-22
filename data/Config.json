@@ -4,5 +4,5 @@
     "LocalHostPort": "127.0.0.1:3333",
     "Password": "2oooo",
     "PortWeb": "3333",
-    "updateTimeSec": "300" //seconds bot checkout telegram server
+    "updateTimeSec": "300" 
    }
