@@ -1,0 +1,11 @@
+local (installed ngrok) setup commands:
+  1. ngrok http 3333
+  2. go run main.go
+
+
+deployment (installed docker) commands:
+  1. sudo docker build -t go-app .
+  2. sudo docker run --rm --name app -p 3333:3333 -v /home/david/GO_P/GO_P_57_for_git_2/data:/app/data -d go-app 
+To stop this:
+  sudo docker stop $(sudo docker ps -qa)
+
